@@ -23,9 +23,9 @@ Com o NetBeans instalado e após fazer o download/clone do jogo, abra o projeto 
 Após isso o jogo será executado.
 
 ## Membros do projeto
-João Passos
-Leonardo Varzone
-Matheus do Nascimento
+* João Passos
+* Leonardo Varzone
+* Matheus do Nascimento
 
 ## Créditos
 Em grande parte do jogo foram usadas ou modificadas obras de terceiros, todas as que foram possível creditar a alguém estão abaixo.
